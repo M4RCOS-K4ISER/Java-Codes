@@ -1,3 +1,5 @@
+package LinkedList;
+
 //Classe dos Nodes
 class Nodes {
     String Data;
